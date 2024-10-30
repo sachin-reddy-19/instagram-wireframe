@@ -1,0 +1,234 @@
+.message {
+    height: 30px;
+    width: 450px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+    border: 2px solid black;
+}
+
+.left {
+    width: 20%;
+    height: 100%;
+    border-right: 1px solid gray;
+}
+
+.container {
+    display: flex;
+    height: 500vh;
+    width: 100vw;
+}
+
+.right {
+    width: 60%;
+    height: 100%;
+    border-right: 1px solid gray;
+}
+
+
+.stories {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.story4 {
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("images/si.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+
+.story3 {
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("chintu.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.story7 {
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("images/kl.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 180%;
+}
+
+.story6 {
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("images/sk.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150%;
+}
+
+.story5 {
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("images/p1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.story1 {
+    height: 90px;
+    width: 90px;
+    border: 5px solid rgb(54, 230, 54);
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("d.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.story2 {
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    background: url("m.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.meme {
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    background: url("images/kk.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 130%;
+}
+
+.home {
+    height: 50px;
+    width: 200px;
+
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    gap: 5px;
+}
+
+.logo {
+    height: 10px;
+    width: 10px;
+    border: 2px soild black;
+}
+
+.right2 {
+    height: 100%;
+    width: 100%;
+}
+
+.suggestion {
+    height: 80px;
+    width: 400px;
+    border: 1px solid gray;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.profile1 {
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    background: url("images/p1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 50%;
+
+}
+
+.profile2 {
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    background: url("images/p2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+
+}
+
+.profile3 {
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    background: url("images/p3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+
+}
+
+.profile4 {
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    background: url("images/p4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+
+}
+
+.follow {
+    height: 10px;
+    width: 60px;
+    position: relative;
+    border: 2px solid black;
+    padding: 20px;
+    background: lightskyblue;
+}
+
+h2 {
+    position: relative;
+    right: 60px;
+    font: size 20px;
+}
